@@ -7,7 +7,7 @@
 # Some Screenshot oF My the website
 
 ### This is login page:
-![This is an image](https://github.com/Harishankar999/project-screentshot/blob/main/project%20screenshot/small%20screen%20harvest.png?raw=true)
+![This is an image](https://github.com/Harishankar999/BMI_Calculator/blob/main/img/Screenshot%202022-10-19%20134316.png?raw=true)
 
 
 
