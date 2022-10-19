@@ -6,9 +6,17 @@
 
 # Some Screenshot oF My the website
 
-### This is login page:
+### This is SignUp page:
 ![This is an image](https://github.com/Harishankar999/BMI_Calculator/blob/main/img/Screenshot%202022-10-19%20134316.png?raw=true)
 
+### This is login page:
+![This is an image](https://github.com/Harishankar999/BMI_Calculator/blob/main/img/Screenshot%202022-10-19%20134425.png?raw=true)
+
+### This is BMI-calculator page:
+![This is an image](https://github.com/Harishankar999/BMI_Calculator/blob/main/img/Screenshot%202022-10-19%20134514.png?raw=true)
+
+### This is BMI-history page:
+![This is an image](https://github.com/Harishankar999/BMI_Calculator/blob/main/img/Screenshot%202022-10-19%20134541.png?raw=true)
 
 
 ### If You want to use this api the end Points are :
