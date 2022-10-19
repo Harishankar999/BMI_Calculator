@@ -4,6 +4,12 @@
 ## Front-end Deployment : https://bmi-system.vercel.app/
 ## back-end Deployment API : https://evening-peak-43386.herokuapp.com/
 
+# Some Screenshot oF My the website
+
+### This is login page:
+![This is an image](https://github.com/Harishankar999/project-screentshot/blob/main/project%20screenshot/small%20screen%20harvest.png?raw=true)
+
+
 
 ### If You want to use this api the end Points are :
 
@@ -24,10 +30,4 @@
 ### then for start react app use command (npm start);
 
 # Otherwise you can use the deployment website.
-
-# Some Glance oF My the website
-
-
-### This is login page:
-![This is an image](https://github.com/Harishankar999/project-screentshot/blob/main/project%20screenshot/small%20screen%20harvest.png?raw=true)
 
